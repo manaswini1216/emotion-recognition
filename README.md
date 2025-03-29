@@ -46,16 +46,13 @@ Dense Layers for emotion classification
 
 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/yourusername/speech-emotion-recognition.git
 cd speech-emotion-recognition
 
 Install required packages:
 
 pip install -r requirements.txt
 
-Run the model on Google Colab. Link: Open in Colab
+Run the model on Google Colab. Link: https://colab.research.google.com/drive/1UkfzwbSZA_dLJKDGOr9CmPAetvuiKudj#scrollTo=P9lXf3xC3e_o
 
 Execute the script:
 
